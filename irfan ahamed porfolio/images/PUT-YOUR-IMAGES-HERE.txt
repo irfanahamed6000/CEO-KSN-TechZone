@@ -1,0 +1,14 @@
+Put your images in this folder using these exact names
+(png, jpg, jpeg, webp or svg all work):
+
+  irfan            -> your photo (portrait, face near the top works best)
+  mj-traders       -> M J Traders logo
+  bolt-nut-fastener -> Bolt Nut Fastener logo
+  tanvi-creative-solution -> Tanvi Creative Solution logo
+  e-commerce       -> E-Commerce project logo
+  billing-software -> Customized billing software logo
+
+Example: images/irfan.jpg   images/mj-traders.png
+
+Any image you do not add is simply left out of the page.
+Delete this text file if you like.
